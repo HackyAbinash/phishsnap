@@ -1,6 +1,6 @@
 # phishsnap
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![cheese](https://techchip.net/wp-content/uploads/2020/04/phishsnap.jpg)
+![cheese](https://hackyabinash.files.wordpress.com/2020/04/phishsnap-1.jpg)
 
 # What is phishsnap?
 <p>phishsnap is techniques to take cam shots of target's phone fornt camera or PC webcam. phishsnap Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
@@ -36,8 +36,5 @@ git clone https://github.com/techchipnet/phishsnap
 cd phishsnap
 bash phishsnap.sh
 ```
-### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>phishsnap is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>phishsnap is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
